@@ -1,1 +1,7 @@
+Filehandlingdemo is console application where the classes are called
 
+LogicOfTheApp is creted which is a dll file where the logic is written.
+LogicOfTheApp contaiins various classes .
+Filehandlingdemo contains program.cs file
+
+All the classes are called in the program.cs file.
